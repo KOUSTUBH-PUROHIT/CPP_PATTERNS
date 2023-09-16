@@ -19,3 +19,9 @@ int main() {
 
     return 0;
 }
+
+
+output = if n = 3
+    111
+    222
+    333
